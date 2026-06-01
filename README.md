@@ -22,8 +22,9 @@ Affordable • Reliable • Convenient
   <a href="https://share.google/zZxFCq8pmwpvfcs1O">
     <img src="https://img.shields.io/badge/Location-View%20on%20Google%20Maps-orange?style=flat-square" alt="Location" />
   </a>
-
+ <a href="https://utkalrides.com/services.html">
   <img src="https://img.shields.io/badge/Service-Self%20Drive%20Cars-blue?style=flat-square" alt="Service" />
+   </a>
 </p>
 
 
