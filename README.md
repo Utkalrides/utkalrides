@@ -1,63 +1,65 @@
-# 🚗 Utkal Rides
+<h1 align="center">🚗 Utkal Rides</h1>
+
+<h3 align="center">
+Self Drive Car Rental in Bhubaneswar, Odisha
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Welcome+to+Utkal+Rides;Self+Drive+Car+Rental+in+Bhubaneswar;Affordable+%7C+Reliable+%7C+Convenient" alt="Typing SVG" />
+Affordable • Reliable • Convenient
+</p>
+
+<p align="center">
+  <a href="https://utkalrides.com/cars.html">
+    <img src="https://img.shields.io/badge/BOOK%20A%20CAR-Visit%20Now-blue?style=for-the-badge" alt="Book Car">
+  </a>
 </p>
 
 <p align="center">
   <a href="https://utkalrides.com">
-    <img src="https://img.shields.io/badge/Website-Visit%20Now-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Website-UtkalRides.com-success?style=flat-square">
   </a>
-  <img src="https://img.shields.io/badge/Location-Bhubaneswar%2C%20Odisha-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Service-Self%20Drive%20Cars-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Bhubaneswar%2C%20Odisha-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Service-Self%20Drive%20Cars-blue?style=flat-square">
 </p>
 
 ---
 
-## 🌟 About Utkal Rides
+## 🌟 About Us
 
-Utkal Rides is a trusted self-drive car rental service in Bhubaneswar, Odisha. We provide well-maintained vehicles for business trips, family vacations, airport transfers, and weekend road trips.
+Utkal Rides is a trusted self-drive car rental service in Bhubaneswar, Odisha. We offer well-maintained vehicles for local travel, airport transfers, business trips, family vacations, and weekend road trips.
 
-### 🚘 Our Services
+### 🚘 Services
 
-✅ Self Drive Car Rental
-✅ Daily & Weekly Rentals
-✅ Monthly Car Subscription
-✅ Airport Pickup & Drop
-✅ Corporate Car Rental
+* Self Drive Car Rental
+* Daily Car Rental
+* Weekly & Monthly Rentals
+* Airport Pickup & Drop
+* Corporate Car Rental
 
----
+### ✅ Why Choose Utkal Rides?
 
-## 🎯 Why Choose Us?
-
-🚗 Wide Range of Cars
-💰 Affordable Pricing
-🔑 Easy Booking Process
-🛡️ Safe & Well-Maintained Vehicles
-📞 Customer Support
+* Affordable Pricing
+* Easy Online Booking
+* Clean & Sanitized Cars
+* Transparent Policies
+* Customer Support
 
 ---
 
-## 🌐 Visit Our Website
+## 🌐 Quick Links
 
-### https://utkalrides.com
+* Website: https://utkalrides.com
+* Cars: https://utkalrides.com/cars.html
+* Contact: https://utkalrides.com/contact.html
 
 ---
 
-## 📍 Service Location
+## 📍 Location
 
 Bhubaneswar, Odisha, India
 
----
-
-## 🔗 Popular Pages
-
-* https://utkalrides.com/self-driving-car-bhubaneswar
-* https://utkalrides.com/best-self-drive-car-rental.html
-* https://utkalrides.com/best-self-drive-car-in-bhubaneswar.html
+📞 Contact us through our website for bookings and inquiries.
 
 ---
 
-<p align="center">
-  <b>🚀 Explore Odisha with Utkal Rides 🚀</b>
-</p>
+⭐ Thank you for visiting Utkal Rides. Happy Driving!
