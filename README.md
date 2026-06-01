@@ -9,18 +9,23 @@ Affordable • Reliable • Convenient
 </p>
 
 <p align="center">
-  <a href="https://utkalrides.com/cars.html">
-    <img src="https://img.shields.io/badge/BOOK%20A%20CAR-Visit%20Now-blue?style=for-the-badge" alt="Book Car">
+  <a href="https://utkalrides.com/contact.html">
+    <img src="https://img.shields.io/badge/BOOK%20A%20CAR-Contact%20Now-blue?style=for-the-badge" alt="Book Car" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://utkalrides.com">
-    <img src="https://img.shields.io/badge/Website-UtkalRides.com-success?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-UtkalRides.com-success?style=flat-square" alt="Website" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Bhubaneswar%2C%20Odisha-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Service-Self%20Drive%20Cars-blue?style=flat-square">
+
+  <a href="https://share.google/zZxFCq8pmwpvfcs1O">
+    <img src="https://img.shields.io/badge/Location-View%20on%20Google%20Maps-orange?style=flat-square" alt="Location" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Service-Self%20Drive%20Cars-blue?style=flat-square" alt="Service" />
 </p>
+
 
 ---
 
